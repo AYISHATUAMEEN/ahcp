@@ -1,0 +1,2 @@
+date,artifact_or_event,type,venue_or_host,link_or_doi,status,metrics_snapshot,files_saved,notes
+2026-10-06,AHCP v1.0 release,dataset,Zenodo + GitHub,10.5281/zenodo.23200319,live,0 downloads at release,,Concept DOI 10.5281/zenodo.23200318; GitHub release v1.0 at https://github.com/AYISHATUAMEEN/ahcp/releases/tag/v1.0; Zenodo record https://zenodo.org/records/23200319. Save PDFs of the release page and the Zenodo record.

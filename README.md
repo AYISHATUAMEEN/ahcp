@@ -2,6 +2,10 @@
 
 **Status:** released, v1.0, 2026-10-06.
 
+[![DOI](https://zenodo.org/badge/1408065701.svg)](https://doi.org/10.5281/zenodo.23200318)
+
+**DOI:** [10.5281/zenodo.23200319](https://doi.org/10.5281/zenodo.23200319) (v1.0); all versions: [10.5281/zenodo.23200318](https://doi.org/10.5281/zenodo.23200318). Repository: https://github.com/AYISHATUAMEEN/ahcp
+
 AHCP is a property-level panel of HUD physical inspection scores for public housing and HUD-assisted or HUD-insured
 multifamily housing. HUD publishes these scores as spreadsheets that list only each property's most recent inspection and
 are replaced over time. AHCP stacks the 9 score-file vintages HUD still publishes

@@ -8,6 +8,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); P = os.path.
 FINAL = "--final" in sys.argv
 S = json.load(open(os.path.join(ROOT, "paper", "stats.json"))); A = json.load(open(os.path.join(ROOT, "AUTHORS.json")))["authors"]
 au = A[0]; TODAY = datetime.date.today().isoformat()
+RP = os.path.join(ROOT, "paper", "release.json"); REL = json.load(open(RP)) if os.path.exists(RP) else {}
+if REL.get("released"): TODAY = REL["released"]
+DOI_LINE = (f"[![DOI]({REL['badge']})](https://doi.org/{REL['concept_doi']})\n\n**DOI:** [{REL['doi']}](https://doi.org/{REL['doi']}) (v1.0); "
+            f"all versions: [{REL['concept_doi']}](https://doi.org/{REL['concept_doi']}). Repository: {REL['github_url']}\n\n") if REL.get("doi") and "--final" in sys.argv else ""
 n = lambda k: f"{S[k]:,}" if isinstance(S[k], int) else str(S[k])
 STAMP = "DRA" + "FT"
 BANNER = "" if FINAL else f"> **{STAMP} - not yet verified by the author. Do not cite or redistribute.**\n\n"
@@ -25,7 +29,7 @@ put(os.path.join(ROOT, "README.md"), f"""# {TITLE}
 
 {BANNER}{STATUS}
 
-AHCP is a property-level panel of HUD physical inspection scores for public housing and HUD-assisted or HUD-insured
+{DOI_LINE}AHCP is a property-level panel of HUD physical inspection scores for public housing and HUD-assisted or HUD-insured
 multifamily housing. HUD publishes these scores as spreadsheets that list only each property's most recent inspection and
 are replaced over time. AHCP stacks the {n('n_vintages')} score-file vintages HUD still publishes
 ({", ".join(str(v) for v in S["vintages"])}), reconciles them, and rebuilds each property's inspection history on one set of
@@ -299,6 +303,7 @@ put(os.path.join(D, "NEXT_STEPS.md"), f"""# Next steps
 """)
 
 # ------------------------------------------------------------------ CITATION + Zenodo metadata + PUBLISH GUIDE
+CFFDOI = (f'\ndoi: "{REL["doi"]}"\nrepository-code: "{REL["github_url"]}"' if REL.get("doi") else "")
 orcid = f'\n    orcid: "https://orcid.org/{au["orcid"]}"' if au.get("orcid") else ""
 put(os.path.join(ROOT, "CITATION.cff"), f"""cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
@@ -310,7 +315,7 @@ authors:
   - family-names: "{au['family']}"
     given-names: "{au['given']}"
     affiliation: "{au['affiliation']}"{orcid}
-license: CC-BY-4.0
+license: CC-BY-4.0{CFFDOI}
 keywords:
   - assisted housing
   - public housing
@@ -336,7 +341,7 @@ json.dump({"metadata": {"upload_type": "dataset", "title": f"{TITLE} v{S['versio
           open(os.path.join(ROOT, "zenodo_metadata.json"), "w"), indent=1)
 put(os.path.join(D, "PUBLISH_GUIDE.md"), f"""# Publish guide: AHCP v{S['version']}
 
-Nothing below has been done yet. Do it only after `docs/VERIFY_CHECKLIST.md` is complete. Allow about 40 minutes.
+{("v1.0 was published on " + REL["released"] + ": GitHub " + REL["github_url"] + ", Zenodo DOI " + REL["doi"] + ". The repository is linked to Zenodo, so each new GitHub release is archived and given a DOI automatically; the steps below are the manual route and the record of how v1.0 was done.") if REL.get("doi") else "Nothing below has been done yet. Do it only after `docs/VERIFY_CHECKLIST.md` is complete. Allow about 40 minutes."}
 
 ## 0. Final build (5 minutes)
 

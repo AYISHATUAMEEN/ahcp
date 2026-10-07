@@ -1,6 +1,6 @@
 # Publish guide: AHCP v1.0
 
-Nothing below has been done yet. Do it only after `docs/VERIFY_CHECKLIST.md` is complete. Allow about 40 minutes.
+v1.0 was published on 2026-10-06: GitHub https://github.com/AYISHATUAMEEN/ahcp, Zenodo DOI 10.5281/zenodo.23200319. The repository is linked to Zenodo, so each new GitHub release is archived and given a DOI automatically; the steps below are the manual route and the record of how v1.0 was done.
 
 ## 0. Final build (5 minutes)
 
