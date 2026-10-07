@@ -1,0 +1,22 @@
+{
+  "authors": [
+    {
+      "name": "Ayishatu Ameen",
+      "family": "Ameen",
+      "given": "Ayishatu",
+      "orcid": "0009-0009-9386-2526",
+      "email": "ameenayishatu4@gmail.com",
+      "affiliation": "Independent Researcher, Hartford, Connecticut, USA",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Software",
+        "Validation",
+        "Data curation",
+        "Writing - original draft"
+      ],
+      "corresponding": true
+    }
+  ],
+  "collaborators": []
+}

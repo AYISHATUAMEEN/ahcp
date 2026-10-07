@@ -1,0 +1,343 @@
+{
+ "accessed": "2026-10-06",
+ "sources": [
+  {
+   "local": "hud_pis/ahcp_ph_2026.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/public_housing_physical_inspection_scores_04082026.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2026,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2026.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/multifamily_physical_inspection_scores_04082026.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2026,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2026.doc",
+   "url": "https://www.huduser.gov/portal/sites/default/files/docs/DataDictionary-Pub-Hsg-Property-2026.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2026,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2026.doc",
+   "url": "https://www.huduser.gov/portal/sites/default/files/docs/DataDictionary-Multifamily-Assisted-Property-Physical-2026.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2026,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_ph_2025.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/public_housing_physical_inspection_scores_08252025.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2025,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2025.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/multifamily_physical_inspection_scores_08252025.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2025,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2025.doc",
+   "url": "https://www.huduser.gov/portal/sites/default/files/docs/DataDictionary-Pub-Hsg-Property-2025.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2025,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2025.doc",
+   "url": "https://www.huduser.gov/portal/sites/default/files/docs/DataDictionary-Multifamily-Assisted-Property-Physical-2025.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2025,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_ph_2021.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/public_housing_physical_inspection_scores_0321.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2021,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2021.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/multifamily_physical_inspection_scores_0321.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2021,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2021.doc",
+   "url": "https://www.huduser.gov/portal/sites/default/files/docs/DataDictionary-Pub-Hsg-Property-2021.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2021,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2021.doc",
+   "url": "https://www.huduser.gov/portal/sites/default/files/docs/DataDictionary-Multifamily-Assisted-Property-Physical-2021.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2021,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_ph_2020.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/public_housing_physical_inspection_scores_0620.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2020,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2020.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/multifamily_physical_inspection_scores_0620.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2020,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2020.doc",
+   "url": "https://www.huduser.gov/portal/sites/default/files/docs/DataDictionary-Pub-Hsg-Property-2020.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2020,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2020.doc",
+   "url": "https://www.huduser.gov/portal/sites/default/files/docs/DataDictionary-Multifamily-Assisted-Property-Physical-2020.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2020,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_ph_2019.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/public-housing-physical-inspection-scores-2019.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2019,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2019.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/multifamily-physical-inspection-scores-2019.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2019,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2019.pdf",
+   "url": "https://www.huduser.gov/portal/sites/default/files/pdf/DataDictionary-Pub-Hsg-Property-2019.pdf",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2019,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2019.pdf",
+   "url": "https://www.huduser.gov/portal/sites/default/files/pdf/DataDictionary-Multifamily-Assisted-Property-Physical-2019.pdf",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2019,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_ph_2018.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/public-housing-physical-inspection-scores-2018.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2018,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2018.xlsx",
+   "url": "https://www.huduser.gov/portal/sites/default/files/xls/multifamily-physical-inspection-scores-2018.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2018,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2018.pdf",
+   "url": "https://www.huduser.gov/portal/sites/default/files/pdf/DataDictionary-Pub-Hsg-Property-2018.pdf",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2018,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2018.pdf",
+   "url": "https://www.huduser.gov/portal/sites/default/files/pdf/DataDictionary-Multifamily-Assisted-Property-Physical-2018.pdf",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2018,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_ph_2016.xlsx",
+   "url": "https://www.huduser.gov/portal/datasets/pis/public-housing-physical-inspection-scores-2016.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2016,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2016.xlsx",
+   "url": "https://www.huduser.gov/portal/datasets/pis/multifamily-physical-inspection-scores-2016.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2016,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2016.pdf",
+   "url": "https://www.huduser.gov/portal/datasets/pis/Data-Dictionary-Pub-Hsg-Property-2016.pdf",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2016,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2016.pdf",
+   "url": "https://www.huduser.gov/portal/datasets/pis/DataDictionary-Multifamily-Assisted-Property-Physical-2016.pdf",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2016,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_ph_2015.xlsx",
+   "url": "https://www.huduser.gov/portal/datasets/pis/public_housing_physical_inspection_scores.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2015,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2015.xlsx",
+   "url": "https://www.huduser.gov/portal/datasets/pis/multifamily_physical_inspection_scores.xlsx",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2015,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2015.doc",
+   "url": "https://www.huduser.gov/portal/datasets/pis/Data_Dictionary_Pub_Hsg_Property.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2015,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2015.doc",
+   "url": "https://www.huduser.gov/portal/datasets/pis/DataDictionary_Multifamily_Assisted_Property_Physical.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2015,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_ph_2011.txt",
+   "url": "https://www.huduser.gov/portal/datasets/pis/Pub_Hsg_Property_Physical_Insp.txt",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2011,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_mf_2011.txt",
+   "url": "https://www.huduser.gov/portal/datasets/pis/Multifamily_Assisted_Property_Physical_Inspection_Dataset.txt",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2011,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_ph_2011.doc",
+   "url": "https://www.huduser.gov/portal/datasets/pis/Data_Dictionary_Pub_Hsg_Property_2011.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2011,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_pis/ahcp_dd_mf_2011.doc",
+   "url": "https://www.huduser.gov/portal/datasets/pis/DataDictionary_Multifamily_Assisted_Property_Physical_2011.doc",
+   "type": "file",
+   "source": "HUD PD&R Physical Inspection Scores",
+   "vintage": 2011,
+   "landing_page": "https://www.huduser.gov/portal/datasets/pis.html"
+  },
+  {
+   "local": "hud_gis/ahcp_hud_mf_assisted.csv",
+   "url": "https://services.arcgis.com/VTyQ9soqVukalItT/ArcGIS/rest/services/MULTIFAMILY_PROPERTIES_ASSISTED/FeatureServer/0/query",
+   "type": "arcgis",
+   "fields": "PROPERTY_ID,PROPERTY_NAME_TEXT,STD_ADDR,STD_CITY,STD_ST,STD_ZIP5,LAT,LON,TOTAL_ASSISTED_UNIT_COUNT,TOTAL_UNIT_COUNT,PROPERTY_CATEGORY_NAME,CLIENT_GROUP_NAME,PRIMARY_FINANCING_TYPE,IS_INSURED_IND,IS_202_811_IND,IS_SEC8_IND,IS_PAC_IND,IS_PRAC_IND,IS_SUBSIDIZED_IND,HAS_ACTIVE_ASSISTANCE_IND,HAS_ACTIVE_FINANCING_IND,IS_SEC8_RAD_DEMO_CONV_IND,CONTRACT1,CONTRACT_COUNT,PROGRAM_TYPE1,EXPIRATION_DATE1,PRIMARY_FHA_NUMBER,TAXCREDIT1,TAXCREDIT2,TROUBLED_CODE,STATE2KX,CNTY2KX,TRACT2KX,TRACT_LEVEL,LVL2KX,REAC_LAST_INSPECTION_ID,REAC_LAST_INSPECTION_SCORE,REAC_LAST_INSPECTION_DATE,OCCUPANCY_DATE,PCT_OCCUPIED,LAST_UPDT_DTTM",
+   "source": "HUD eGIS: Multifamily Properties - Assisted",
+   "layer_data_last_edit_ms": 1784657749719,
+   "landing_page": "https://hudgis-hud.opendata.arcgis.com/"
+  },
+  {
+   "local": "hud_gis/ahcp_hud_mf_insured.csv",
+   "url": "https://services.arcgis.com/VTyQ9soqVukalItT/ArcGIS/rest/services/HUD_Insured_Multifamily_Properties/FeatureServer/0/query",
+   "type": "arcgis",
+   "fields": "PROPERTY_ID,PROPERTY_NAME_TEXT,STD_ADDR,STD_CITY,STD_ST,STD_ZIP5,LAT,LON,TOTAL_ASSISTED_UNIT_COUNT,TOTAL_UNIT_COUNT,PROPERTY_CATEGORY_NAME,CLIENT_GROUP_NAME,PRIMARY_FINANCING_TYPE,IS_INSURED_IND,IS_202_811_IND,IS_SEC8_IND,IS_PAC_IND,IS_PRAC_IND,IS_SUBSIDIZED_IND,HAS_ACTIVE_ASSISTANCE_IND,HAS_ACTIVE_FINANCING_IND,IS_SEC8_RAD_DEMO_CONV_IND,CONTRACT1,CONTRACT_COUNT,PROGRAM_TYPE1,EXPIRATION_DATE1,PRIMARY_FHA_NUMBER,TAXCREDIT1,TAXCREDIT2,STATE2KX,CNTY2KX,TRACT2KX,TRACT_LEVEL,LVL2KX,REAC_LAST_INSPECTION_ID,REAC_LAST_INSPECTION_SCORE,REAC_LAST_INSPECTION_DATE,OCCUPANCY_DATE,PCT_OCCUPIED,LAST_UPDT_DTTM",
+   "source": "HUD eGIS: HUD Insured Multifamily Properties",
+   "layer_data_last_edit_ms": 1784657547679,
+   "landing_page": "https://hudgis-hud.opendata.arcgis.com/"
+  },
+  {
+   "local": "hud_gis/ahcp_hud_ph_developments.csv",
+   "url": "https://services.arcgis.com/VTyQ9soqVukalItT/ArcGIS/rest/services/Public_Housing_Developments/FeatureServer/0/query",
+   "type": "arcgis",
+   "fields": "PARTICIPANT_CODE,FORMAL_PARTICIPANT_NAME,DEVELOPMENT_CODE,PROJECT_NAME,SCATTERED_SITE_IND,PD_STATUS_TYPE_CODE,TOTAL_DWELLING_UNITS,ACC_UNITS,TOTAL_UNITS,TOTAL_OCCUPIED,PCT_OCCUPIED,STD_ADDR,STD_CITY,STD_ST,STD_ZIP5,LAT,LON,STATE2KX,CNTY2KX,TRACT2KX,TRACT_LEVEL,LVL2KX,LAST_UPDT_DTTM",
+   "source": "HUD eGIS: Public Housing Developments",
+   "layer_data_last_edit_ms": 1784658322628,
+   "landing_page": "https://hudgis-hud.opendata.arcgis.com/"
+  },
+  {
+   "local": "hud_gis/ahcp_hud_lihtc.csv",
+   "url": "https://services.arcgis.com/VTyQ9soqVukalItT/ArcGIS/rest/services/LIHTC/FeatureServer/0/query",
+   "type": "arcgis",
+   "fields": "HUD_ID,PROJECT,PROJ_ADD,PROJ_CTY,PROJ_ST,PROJ_ZIP,N_UNITS,LI_UNITS,YR_PIS,YR_ALLOC,TYPE,CREDIT,NONPROG,STD_ADDR,STD_ZIP5,LAT,LON,STATE2KX,CNTY2KX,TRACT2KX,TRACT_LEVEL",
+   "source": "HUD eGIS: Low-Income Housing Tax Credit Properties",
+   "layer_data_last_edit_ms": 1733772824220,
+   "landing_page": "https://hudgis-hud.opendata.arcgis.com/"
+  },
+  {
+   "local": "census/ahcp_cb_2020_us_tract_500k.zip",
+   "url": "https://www2.census.gov/geo/tiger/GENZ2020/shp/cb_2020_us_tract_500k.zip",
+   "type": "file",
+   "source": "U.S. Census Bureau 2020 cartographic boundary file, census tracts, 1:500,000",
+   "landing_page": "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html"
+  },
+  {
+   "local": "cdc/ahcp_cdc_places_tract_2025.csv",
+   "url": "https://data.cdc.gov/resource/yjkw-uj5s.csv?$select=stateabbr,countyname,countyfips,tractfips,totalpopulation,totalpop18plus,access2_crudeprev,arthritis_crudeprev,binge_crudeprev,bphigh_crudeprev,bpmed_crudeprev,cancer_crudeprev,casthma_crudeprev,chd_crudeprev,checkup_crudeprev,cholscreen_crudeprev,colon_screen_crudeprev,copd_crudeprev,csmoking_crudeprev,dental_crudeprev,depression_crudeprev,diabetes_crudeprev,ghlth_crudeprev,highchol_crudeprev,lpa_crudeprev,mammouse_crudeprev,mhlth_crudeprev,obesity_crudeprev,phlth_crudeprev,sleep_crudeprev,stroke_crudeprev,teethlost_crudeprev,hearing_crudeprev,vision_crudeprev,cognition_crudeprev,mobility_crudeprev_,selfcare_crudeprev,indeplive_crudeprev,disability_crudeprev,loneliness_crudeprev,foodstamp_crudeprev,foodinsecu_crudeprev,housinsecu_crudeprev,shututility_crudeprev,lacktrpt_crudeprev,emotionspt_crudeprev&$order=tractfips&$limit=200000",
+   "type": "file",
+   "source": "CDC PLACES: Census Tract Data (GIS Friendly Format), 2025 release (dataset yjkw-uj5s)",
+   "landing_page": "https://data.cdc.gov/d/yjkw-uj5s"
+  }
+ ]
+}

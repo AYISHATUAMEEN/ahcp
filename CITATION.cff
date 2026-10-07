@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Assisted Housing Condition Panel (AHCP) v1.0: harmonized HUD public housing and multifamily physical inspection scores, 2000-2026"
+version: "1.0"
+date-released: "2026-10-06"
+authors:
+  - family-names: "Ameen"
+    given-names: "Ayishatu"
+    affiliation: "Independent Researcher, Hartford, Connecticut, USA"
+    orcid: "https://orcid.org/0009-0009-9386-2526"
+license: CC-BY-4.0
+keywords:
+  - assisted housing
+  - public housing
+  - housing quality
+  - physical inspection
+  - NSPIRE
+  - UPCS
+  - HUD

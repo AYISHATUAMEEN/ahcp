@@ -1,0 +1,6 @@
+export(ahcp_vintages)
+export(ahcp_fetch)
+export(ahcp_rebuild)
+export(ahcp_read)
+export(ahcp_history)
+import(data.table)

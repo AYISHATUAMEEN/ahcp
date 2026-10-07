@@ -1,0 +1,9 @@
+data/raw/
+!data/raw/PROVENANCE.txt
+data/interim/
+__pycache__/
+*.pyc
+.env
+.Rhistory
+.Rproj.user/
+.DS_Store
