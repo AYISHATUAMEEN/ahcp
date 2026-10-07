@@ -1,0 +1,32 @@
+{
+ "upload_type": "dataset",
+ "title": "Assisted Housing Condition Panel (AHCP) v1.0: harmonized HUD public housing and multifamily physical inspection scores, 2000-2026",
+ "creators": [
+  {
+   "name": "Ameen, Ayishatu",
+   "affiliation": "Independent Researcher, Hartford, Connecticut, USA",
+   "orcid": "0009-0009-9386-2526"
+  }
+ ],
+ "description": "<p>AHCP is a property-level panel of U.S. Department of Housing and Urban Development (HUD) physical inspection scores for public housing and HUD-assisted or insured multifamily housing. It stacks the 9 score-file vintages HUD still publishes (2011 to 2026), reconciles them, and reconstructs 313,732 unique inspections for 65,337 properties dated 2000-01-11 to 2026-04-03, with the UPCS or NSPIRE protocol flagged and each property linked to its 2020 census tract, HUD subsidy record, LIHTC record and CDC PLACES tract health estimates.</p><p>Coverage is incomplete: no published file covers 2010-2012, and files from 2016 on list only each property's latest inspection. See docs/LIMITATIONS.md before use. The deposit includes a codebook, a provenance log with SHA-256 hashes of every input, the Python pipeline, and an R package.</p>",
+ "license": "cc-by-4.0",
+ "access_right": "open",
+ "version": "1.0",
+ "keywords": [
+  "assisted housing",
+  "public housing",
+  "housing quality",
+  "physical inspection",
+  "NSPIRE",
+  "UPCS",
+  "HUD",
+  "census tract"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "https://www.huduser.gov/portal/datasets/pis.html",
+   "relation": "isDerivedFrom",
+   "resource_type": "dataset"
+  }
+ ]
+}
